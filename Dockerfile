@@ -21,6 +21,7 @@ RUN locale-gen en_US.UTF-8 && \
     php7.4-mysql \
     php7.4-redis \
     php7.4-xml \
+    php7.4-json \
     php7.4-xdebug \
     php7.4-common \
     php7.4-sqlite \
